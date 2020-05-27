@@ -40,3 +40,5 @@ For example, if the domain for your portal and gateway is 'https://apiproxy.com'
 For developers to get an API key to consumer your API, they would have to signup on the portal at http://localhost:8000/signup
 
 To consumer the API, add token in the header. For example, in Postman, choose API Key as the authorization and set the value to 'Token {apitoken}
+
+If you are interested in a hosted version of this project, please leave your email here https://karthikve.typeform.com/to/Foo8hI
