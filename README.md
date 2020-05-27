@@ -23,6 +23,8 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+The project will now be running at http://localhost:8000
+
 If you make changes to the React code in the frontend folder, recompile the JS by running the following command from the root folder
 
 ```json
