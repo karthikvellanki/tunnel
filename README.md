@@ -11,8 +11,9 @@ It uses the Django Rest Framework and rest-auth for the backend user authenticat
 This project uses sqlite3 as its database by default. You can change the database configuration in the tunnel/tunnel/settings.py file
 
 ```json
+cd Tunnel
 virtualenv env
-source env/bin/activate
+env\Scripts\activate.bat
 pip install -r requirements.txt
 npm install
 cd tunnel
